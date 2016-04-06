@@ -20,8 +20,8 @@ Check out the [images](/images)!
 - [Cartopy](http://scitools.org.uk/cartopy/) 
 - [Natural Earth Scale Downloads](http://www.naturalearthdata.com/downloads/) - contains country shapes - hindsight says I could have used this to calculate the population densites...
 - [Stackexchange comment by Rutger Kassies](http://stackoverflow.com/questions/25505674/python-matplotlib-add-colorbar) - colorbar with world map
-- Blog post to come
-- Imgur post to come
+- [Blog post describing the process](http://jekel.me/2016/Population-Density-Plots/)
+- [Complete imgur gallery](http://imgur.com/a/Pb1i6)
 
 ## License
 

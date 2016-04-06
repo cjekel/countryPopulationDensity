@@ -1,0 +1,258 @@
+Rank,Country,area sq Km
+1,Russia,17098242.00
+2,Canada,9984670.00
+3,United States,9826675.00
+4,China,9596960.00
+5,Brazil,8514877.00
+6,Australia,7741220.00
+7,India,3287263.00
+8,Argentina,2780400.00
+9,Kazakhstan,2724900.00
+10,Algeria,2381741.00
+11,"Congo, Democratic Republic of the",2344858.00
+12,Greenland,2166086.00
+13,Saudi Arabia,2149690.00
+14,Mexico,1964375.00
+15,Indonesia,1904569.00
+16,Sudan,1861484.00
+17,Libya,1759540.00
+18,Iran,1648195.00
+19,Mongolia,1564116.00
+20,Peru,1285216.00
+21,Chad,1284000.00
+22,Niger,1267000.00
+23,Angola,1246700.00
+24,Mali,1240192.00
+25,South Africa,1219090.00
+26,Colombia,1138910.00
+27,Ethiopia,1104300.00
+28,Bolivia,1098581.00
+29,Mauritania,1030700.00
+30,Egypt,1001450.00
+31,Tanzania,947300.00
+32,Nigeria,923768.00
+33,Venezuela,912050.00
+34,Namibia,824292.00
+35,Mozambique,799380.00
+36,Pakistan,796095.00
+37,Turkey,783562.00
+38,Chile,756102.00
+39,Zambia,752618.00
+40,Burma,676578.00
+41,Afghanistan,652230.00
+42,South Sudan,644329.00
+43,France,643801.00
+44,Somalia,637657.00
+45,Central African Republic,622984.00
+46,Ukraine,603550.00
+47,Madagascar,587041.00
+48,Botswana,581730.00
+49,Kenya,580367.00
+50,Yemen,527968.00
+51,Thailand,513120.00
+52,Spain,505370.00
+53,Turkmenistan,488100.00
+54,Cameroon,475440.00
+55,Papua New Guinea,462840.00
+56,Sweden,450295.00
+57,Uzbekistan,447400.00
+58,Morocco,446550.00
+59,Iraq,438317.00
+60,Paraguay,406752.00
+61,Zimbabwe,390757.00
+62,Japan,377915.00
+63,Germany,357022.00
+64,"Congo, Republic of the",342000.00
+65,Finland,338145.00
+66,Vietnam,331210.00
+67,Malaysia,329847.00
+68,Norway,323802.00
+69,Cote d'Ivoire,322463.00
+70,Poland,312685.00
+71,Oman,309500.00
+72,Italy,301340.00
+73,Philippines,300000.00
+74,Ecuador,283561.00
+75,Burkina Faso,274200.00
+76,New Zealand,267710.00
+77,Gabon,267667.00
+78,Western Sahara,266000.00
+79,Guinea,245857.00
+80,United Kingdom,243610.00
+81,Uganda,241038.00
+82,Ghana,238533.00
+83,Romania,238391.00
+84,Laos,236800.00
+85,Guyana,214969.00
+86,Belarus,207600.00
+87,Kyrgyzstan,199951.00
+88,Senegal,196722.00
+89,Syria,185180.00
+90,Cambodia,181035.00
+91,Uruguay,176215.00
+92,Suriname,163820.00
+93,Tunisia,163610.00
+94,Nepal,147181.00
+95,Bangladesh,143998.00
+96,Tajikistan,143100.00
+97,Greece,131957.00
+98,Nicaragua,130370.00
+99,"Korea, North",120538.00
+100,Malawi,118484.00
+101,Eritrea,117600.00
+102,Benin,112622.00
+103,Honduras,112090.00
+104,Liberia,111369.00
+105,Bulgaria,110879.00
+106,Cuba,110860.00
+107,Guatemala,108889.00
+108,Iceland,103000.00
+109,"Korea, South",99720.00
+110,Hungary,93028.00
+111,Portugal,92090.00
+112,Jordan,89342.00
+113,Azerbaijan,86600.00
+114,Austria,83871.00
+115,United Arab Emirates,83600.00
+116,Czech Republic,78867.00
+117,Serbia,77474.00
+118,Panama,75420.00
+119,Sierra Leone,71740.00
+120,Ireland,70273.00
+121,Georgia,69700.00
+122,Sri Lanka,65610.00
+123,Lithuania,65300.00
+124,Latvia,64589.00
+125,Svalbard,62045.00
+126,Togo,56785.00
+127,Croatia,56594.00
+128,British Indian Ocean Territory,54400.00
+129,Bosnia and Herzegovina,51197.00
+130,Costa Rica,51100.00
+131,Slovakia,49035.00
+132,Dominican Republic,48670.00
+133,Estonia,45228.00
+134,Denmark,43094.00
+135,Netherlands,41543.00
+136,Switzerland,41277.00
+137,Bhutan,38394.00
+138,Guinea-Bissau,36125.00
+139,Taiwan,35980.00
+140,Moldova,33851.00
+141,Belgium,30528.00
+142,Lesotho,30355.00
+143,Armenia,29743.00
+144,Solomon Islands,28896.00
+145,Albania,28748.00
+146,Equatorial Guinea,28051.00
+147,Burundi,27830.00
+148,Haiti,27750.00
+149,Rwanda,26338.00
+150,Macedonia,25713.00
+151,Djibouti,23200.00
+152,Belize,22966.00
+153,El Salvador,21041.00
+154,Israel,20770.00
+155,Slovenia,20273.00
+156,New Caledonia,18575.00
+157,Fiji,18274.00
+158,Kuwait,17818.00
+159,Swaziland,17364.00
+160,Timor-Leste,14874.00
+161,"Bahamas, The",13880.00
+162,Montenegro,13812.00
+163,Puerto Rico,13790.00
+164,Vanuatu,12189.00
+165,Falkland Islands (Islas Malvinas),12173.00
+166,Qatar,11586.00
+167,"Gambia, The",11295.00
+168,Jamaica,10991.00
+169,Kosovo,10887.00
+170,Lebanon,10400.00
+171,Cyprus,9251.00
+172,West Bank,5860.00
+173,Brunei,5765.00
+174,Trinidad and Tobago,5128.00
+175,French Polynesia,4167.00
+176,Cabo Verde,4033.00
+177,South Georgia and South Sandwich Islands,3903.00
+178,Samoa,2831.00
+179,Luxembourg,2586.00
+180,Comoros,2235.00
+181,Mauritius,2040.00
+182,Virgin Islands,1910.00
+183,Faroe Islands,1393.00
+184,Hong Kong,1108.00
+185,Sao Tome and Principe,964.00
+186,Turks and Caicos Islands,948.00
+187,Kiribati,811.00
+188,Bahrain,760.00
+189,Dominica,751.00
+190,Tonga,747.00
+191,"Micronesia, Federated States of",702.00
+192,Singapore,697.00
+193,Saint Lucia,616.00
+194,Isle of Man,572.00
+195,Guam,544.00
+196,Andorra,468.00
+197,Northern Mariana Islands,464.00
+198,Palau,459.00
+199,Seychelles,455.00
+200,Curacao,444.00
+201,Antigua and Barbuda,443.00
+202,Barbados,430.00
+203,Heard Island and McDonald Islands,412.00
+204,Saint Vincent and the Grenadines,389.00
+205,Jan Mayen,377.00
+206,Gaza Strip,360.00
+207,Grenada,344.00
+208,Malta,316.00
+209,"Saint Helena, Ascension, and Tristan da Cunha",308.00
+210,Maldives,298.00
+211,Cayman Islands,264.00
+212,Saint Kitts and Nevis,261.00
+213,Niue,260.00
+214,Saint Pierre and Miquelon,242.00
+215,Cook Islands,236.00
+216,American Samoa,199.00
+217,Marshall Islands,181.00
+218,Aruba,180.00
+219,Liechtenstein,160.00
+220,British Virgin Islands,151.00
+221,Wallis and Futuna,142.00
+222,Christmas Island,135.00
+223,Dhekelia,131.00
+224,Akrotiri,123.00
+225,Jersey,116.00
+226,Montserrat,102.00
+227,Anguilla,91.00
+228,Guernsey,78.00
+229,San Marino,61.00
+230,French Southern and Antarctic Lands,55.00
+231,Saint Martin,54.00
+232,Bermuda,54.00
+233,Bouvet Island,49.00
+234,Pitcairn Islands,47.00
+235,Norfolk Island,36.00
+236,Sint Maarten,34.00
+237,Macau,28.00
+238,Tuvalu,26.00
+239,United States Pacific Island Wildlife Refuges,22.00
+240,Nauru,21.00
+241,Cocos (Keeling) Islands,14.00
+242,Tokelau,12.00
+243,Palmyra Atoll,12.00
+244,Gibraltar,7.00
+245,Wake Island,7.00
+246,Midway Islands,6.00
+247,Clipperton Island,6.00
+248,Navassa Island,5.00
+249,Spratly Islands,5.00
+250,Ashmore and Cartier Islands,5.00
+251,Jarvis Island,5.00
+252,Coral Sea Islands,3.00
+253,Johnston Atoll,3.00
+254,Monaco,2.00
+255,Howland Island,2.00
+256,Kingman Reef,1.00
+257,Holy See (Vatican City),0.00
